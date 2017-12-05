@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="3.0" package="org.example.watch" version="1.0.0">
+    <author email="chernozor@yandex.ru" href="http://webmaster-gambit.ru">Gambit</author>
+    <description>Most Energy Efficient Watchface for your Gear S3/S2. Nothing extra, just simple digital watchface.</description>
+    <description xml:lang="ru-ru">Максимально энергосберегающий циферблат для вашего Gear S3/S2. Ничего лишнего, только то, что нужно на цифровом циферблате!</description>
+    <profile name="wearable"/>
+    <watch-application ambient-support="false" appid="org.example.watch" exec="watch">
+        <label>watch</label>
+        <label xml:lang="ru-ru">Энергоэффективный Циферблат</label>
+        <icon>watch.png</icon>
+    </watch-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/alarm.set</privilege>
+    </privileges>
+</manifest>

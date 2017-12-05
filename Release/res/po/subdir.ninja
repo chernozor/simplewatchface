@@ -1,0 +1,10 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+
+potool = msgfmt
+poflags = 
+
+build res/locale/en/LC_MESSAGES/watch.mo: build_po ../res/po/en.po 
+build res/locale/ru_RU/LC_MESSAGES/watch.mo: build_po ../res/po/ru_RU.po 

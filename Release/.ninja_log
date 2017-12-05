@@ -1,0 +1,25 @@
+# ninja log v5
+0	239	0	src/watch.o	f09a7ff02920c5a8
+239	348	0	watch	e177bcb474ff023c
+0	5	0	clean_cov	b3de405e02eb7ca8
+6	11	0	clean_sa	46ab9549445ac981
+11	18	0	clean	d59b6dac04fa9b5d
+2	443	0	src/watch.o	f09a7ff02920c5a8
+444	592	0	watch	e177bcb474ff023c
+2	409	0	src/watch.o	f09a7ff02920c5a8
+409	566	0	watch	e177bcb474ff023c
+0	5	0	clean_cov	b3de405e02eb7ca8
+5	9	0	clean_sa	46ab9549445ac981
+9	16	0	clean	d59b6dac04fa9b5d
+2	445	0	src/watch.o	f09a7ff02920c5a8
+445	621	0	watch	e177bcb474ff023c
+0	4	0	clean_cov	b3de405e02eb7ca8
+4	9	0	clean_sa	46ab9549445ac981
+9	14	0	clean	d59b6dac04fa9b5d
+2	19	0	res/locale/en/LC_MESSAGES/watch.mo	6a839409efa8e2bc
+3	20	0	res/locale/ru_RU/LC_MESSAGES/watch.mo	bad740ccd83d8e0
+0	5	0	clean_cov	b3de405e02eb7ca8
+5	9	0	clean_sa	46ab9549445ac981
+9	15	0	clean	d59b6dac04fa9b5d
+2	18	0	res/locale/en/LC_MESSAGES/watch.mo	6a839409efa8e2bc
+3	18	0	res/locale/ru_RU/LC_MESSAGES/watch.mo	bad740ccd83d8e0
